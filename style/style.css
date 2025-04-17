@@ -1,11 +1,24 @@
-*{
+body{
+    margin: 20px 100px;
     background-color: #535353;
 }
 .o {
     text-align: center;
-    background-color: #535353;
+    background-color: #d9d9d9;
     font-size:xx-large;
+    border-radius: 15px;
 }
 div {
     background-color: #d9d9d9;
+    margin: 60px;
+    border-radius: 15px;
+}
+#foto-andre {
+    margin: 20px ;
+}
+
+#foto-andre img{
+    margin: 40px;
+    width: 400px;
+    height: 400px;
 }
