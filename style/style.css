@@ -18,11 +18,12 @@ div {
 
 #foto-andre {
     margin: 20px;
+    max-height: 100px;
 }
 #foto-andre img {
     margin: 40px;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 15px;
 }
 
