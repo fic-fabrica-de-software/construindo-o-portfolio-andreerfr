@@ -22,8 +22,8 @@ div {
 }
 #foto-andre img {
     margin: 40px;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 15px;
 }
 
@@ -34,6 +34,10 @@ div {
     border-radius: 15px;
     padding: 0%;
     margin: 0%;
+}
+
+#lana {
+    padding: 0%;
 }
 
 #flex {
