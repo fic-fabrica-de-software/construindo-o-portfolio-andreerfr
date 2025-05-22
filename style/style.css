@@ -27,24 +27,70 @@ div {
     border-radius: 15px;
 }
 
-
 #flex {
     display: flex;
     background-color: #d9d9d9;
     border-radius: 10px;
+    padding: 0%;
 }
 #flex2 {
     display: flex;
     background-color: #d9d9d9;
     border-radius: 15px;
+    padding: 0%;
+    align-items: center;
 }
 
 #foto-cyber img {
+    display: flex;
     width: 200px;
     height: 200px;
+    margin: 0%;
+    padding: 0%;
 }
 
 #foto-ic img {
+    display: flex;
     width: 200px;
     height: 100px;
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+}
+
+header {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    align-items: center;
+}
+
+#flex_header {
+display: flex;
+padding: 1%;
+margin: 1%;
+text-align: center;
+align-items: center;
+}
+
+#flex3 {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    padding: 0%;
+    text-align: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
 }
