@@ -20,6 +20,7 @@ div {
     margin: 20px;
     max-height: 100px;
 }
+
 #foto-andre img {
     margin: 40px;
     width: 300px;
@@ -46,6 +47,7 @@ div {
     border-radius: 10px;
     padding: 0%;
 }
+
 #flex2 {
     display: flex;
     background-color: #d9d9d9;
@@ -65,7 +67,7 @@ div {
 #foto-ic img {
     display: flex;
     width: 200px;
-    height: 100px;
+    height: 120px;
     margin: 0%;
     padding: 0%;
     align-items: center;
@@ -90,11 +92,11 @@ header a {
 }
 
 #flex_header {
-display: flex;
-padding: 1%;
-margin: 1%;
-text-align: center;
-align-items: center;
+    display: flex;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    align-items: center;
 }
 
 #flex3 {
@@ -106,4 +108,17 @@ align-items: center;
     align-items: center;
     padding: 0%;
     margin: 0%;
+}
+
+#flex-exp {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    padding: 0%;
+    margin: 0%;
+}
+
+#exp {
+    padding: 0%;
+    margin: 3%;
 }
