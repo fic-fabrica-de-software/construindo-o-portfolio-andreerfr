@@ -1,0 +1,97 @@
+body {
+    margin: 20px 100px;
+    background-color: #535353;
+}
+
+.o {
+    text-align: center;
+    background-color: #d9d9d9;
+    font-size: xx-large;
+    border-radius: 15px;
+}
+
+div {
+    background-color: #d9d9d9;
+    margin: 60px;
+    border-radius: 15px;
+}
+
+#flex {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    padding: 0%;
+}
+
+#flex2 {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    padding: 0%;
+    align-items: center;
+}
+
+header {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+#flex_header {
+    display: flex;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    align-items: center;
+}
+
+#flex3 {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    padding: 0%;
+    text-align: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+#flex-exp {
+    display: flex;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    padding: 0%;
+    margin: 0%;
+}
+
+#exp {
+    padding: 0%;
+    margin: 3%;
+}
+
+p {
+    font-size: 16px;
+}
+
+#foto-padrao img {
+    display: flex;
+    width: 200px;
+    height: 120px;
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+}
+
