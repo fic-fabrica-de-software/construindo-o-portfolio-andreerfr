@@ -3,6 +3,7 @@ body {
     background-color: #535353;
 }
 
+
 .o {
     text-align: center;
     background-color: #d9d9d9;
@@ -109,12 +110,17 @@ header a {
 #flex3 {
     display: flex;
     background-color: #d9d9d9;
-    border-radius: 10px;
     padding: 0%;
     text-align: center;
     align-items: center;
     padding: 0%;
     margin: 0%;
+}
+
+#flex3 a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
 }
 
 #flex-exp {
