@@ -1,5 +1,5 @@
 body {
-    margin: 20px 100px;
+    margin: 0%;
     background-color: #535353;
 }
 
@@ -61,7 +61,6 @@ header a {
 #flex3 {
     display: flex;
     background-color: #d9d9d9;
-    border-radius: 10px;
     padding: 0%;
     text-align: center;
     align-items: center;
@@ -74,7 +73,7 @@ header a {
     background-color: #d9d9d9;
     border-radius: 10px;
     padding: 0%;
-    margin: 0%;
+    margin: 1%;
 }
 
 #exp {
