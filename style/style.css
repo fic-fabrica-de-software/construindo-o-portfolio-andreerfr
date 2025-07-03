@@ -119,6 +119,21 @@ header a {
     align-items: center;
 }
 
+#flex_header2 {
+    display: flex;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    align-items: center;
+    max-width: 10px;
+    max-height: 10px;
+}
+
+#sorry {
+    max-width: 30px;
+}
+
+
 #flex3 {
     display: flex;
     background-color: #d9d9d9;
