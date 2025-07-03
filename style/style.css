@@ -146,6 +146,19 @@ header a {
     text-align: center;
 }
 
+#flex4 {
+    display: flex;
+    background-color: #d9d9d9;
+    padding: 0%;
+    text-align: center;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+    padding-left: 40%;
+    align-items: center;
+    text-align: center;
+}
+
 #flex3 a {
     text-decoration: none;
     color: black;
